@@ -4,6 +4,10 @@
 
 **Repón** es una aplicación web en **React** para gestionar el inventario de la casa y armar la lista del supermercado. En vez de anotar lo que falta, marcas lo que se te acabó y la app lo lleva sola a tu lista de compras.
 
+| Inventario | Modo supermercado | Premium |
+|:---:|:---:|:---:|
+| <img src="docs/inventario.png" width="240" alt="Inventario del hogar"> | <img src="docs/super.png" width="240" alt="Modo supermercado"> | <img src="docs/premium.png" width="240" alt="Pantalla Premium"> |
+
 ## Funcionalidades
 
 - **Inventario del hogar** organizado por categorías (comida, limpieza, baño y cocina), con cantidad, precio y notas por producto.
